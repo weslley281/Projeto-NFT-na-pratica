@@ -1,0 +1,16 @@
+{
+  "name": "projeto-nft-na-pratica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Weslley Henrique Vieira Ferraz",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.19.3",
+    "hardhat-deploy": "^0.11.45"
+  }
+}
